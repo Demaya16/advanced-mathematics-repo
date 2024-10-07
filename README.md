@@ -1,6 +1,6 @@
 # 🧮 Advanced Mathematics Repository
 
-Welcome to the **Advanced Mathematics Repository**! This repository contains high-level coursework, homework assignments, and problem sets completed throughout my academic journey. The content spans across various challenging topics and is presented in LaTeX-formatted documents for ease of reading and collaboration.
+Welcome to the **Advanced Mathematics Repository**! This repository contains selected high-level coursework, homework assignments, and problem sets completed throughout my academic journey. The content spans across various challenging topics and is presented in LaTeX-formatted documents for ease of reading and collaboration.
 
 Feel free to explore the content, raise issues, or contribute to any open problems. This repository serves both as a **portfolio** of my mathematical work and as a **resource** for others interested in exploring advanced mathematics.
 
