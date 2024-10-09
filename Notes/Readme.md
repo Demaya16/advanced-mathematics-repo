@@ -29,12 +29,7 @@ This folder contains my personal notes and assignments for advanced mathematics 
 ### 1. **Combinatorics Notes**
 A detailed exploration of combinatorics concepts, including **permutations**, **combinations**, and **generating functions**. These notes focus on solving combinatoric puzzles and problems using both classical and modern techniques.
 
-#### Files:
-- [Combinatorics Notes Homework 1](./Combinatorics%20Notes%20Hw%201%5B1105%5D.pdf)
-- [Combinatorics Notes Homework 2](./Combinatorics%20notes%20hw2.pdf)
-- [Combinatorics Puzzle](./Combinatorics%20puzzleMay%2019,%202023%20%5B1215%5D.pdf)
-- [Combinatorics Sunday Problem](./Combinatorics%20sun%202,%202023%5B1335%5D.pdf)
-- [Using Generating Functions](./use_generating_functions.pdf)
+
 
 ---
 
