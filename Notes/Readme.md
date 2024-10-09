@@ -42,8 +42,7 @@ These notes cover key concepts in **Topology**, including **open sets**, **conti
 ### 3. **Real Analysis Notes**
 This section contains detailed notes and assignments on **Real Analysis**, focusing on topics like **sequences**, **series**, **convergence**, and **measure theory**. The notes break down fundamental theorems and proofs essential to advanced mathematical analysis.
   
-#### Files:
-- [Real Analysis Notes Assignment 1](./Real%20Analysis%20Notes%20Assignment%201%5B1571%5D.pdf)
+
 
 ---
 
